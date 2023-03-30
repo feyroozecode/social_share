@@ -1,1 +1,1 @@
-# A sample Social Network share button with Faceboo, Twitter and Whatsapp
+# A sample Social Network share button with Facebook, Twitter and Whatsapp
