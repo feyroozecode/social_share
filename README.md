@@ -1,2 +1,1 @@
-# social_share
-Share a text or link in Facebook, Twitter and Whatsapp
+# A sample Social Network share button with Facebook, Twitter and Whatsapp
